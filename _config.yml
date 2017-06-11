@@ -20,7 +20,7 @@ description: "Leo Folder Locker is an easy to use, fast and free folder locker f
 source_link: "https://github.com/usmanaura47/leo-folder-locker"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-76202959-2 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###
