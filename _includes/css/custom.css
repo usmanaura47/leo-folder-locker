@@ -35,6 +35,10 @@ Custom CSS
 	text-decoration: none;
 }
 
+.odd {
+	color: red;	
+}
+
 .footer-t:hover {
 	color: red;
 }
