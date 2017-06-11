@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Leo Folder Locker - An easy and freeware folder locker"
 keywords:    "leofolderlocker, folderlocker, locker, malikusmanaura, freewarefolderlocker, windowsfolderlocker, fastfolderlocker, officalsiteofleofolderlocker"
-description: "Leo FOlder Locker is an easy to use, fast and free folder locker for Windows by Malik Usman Aura"
+description: "Leo Folder Locker is an easy to use, fast and free folder locker for Windows by Malik Usman Aura"
 source_link: "https://github.com/usmanaura47/leo-folder-locker"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
