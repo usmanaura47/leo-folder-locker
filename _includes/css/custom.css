@@ -29,6 +29,7 @@ Custom CSS
 #footer-tdiv {
 	display: inline-block;
 	border-top: 1px black solid;
+	margin-top: 1%;
 }
 .footer-t {
 	text-decoration: none;
