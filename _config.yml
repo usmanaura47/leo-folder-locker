@@ -21,6 +21,10 @@ source_link: "https://github.com/usmanaura47/leo-folder-locker"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-76202959-2 ## put YOUR key here to enable tracking! (blank to disable)
+
+twitter:
+  username: _malikusmanaura_
+
 author: "Malik Usman Aura"
 social:
   name: Malik Usman Aura
