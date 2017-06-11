@@ -7,11 +7,11 @@ Site powered by jekyll and [SinglePaged theme](https://github.com/t413/SinglePag
 this site is [open source]({{ site.source_link }})
 
 <div>
-<a title="Leo Folder Locker Freeware">Leo Folder Locker Freeware</a>
-<a title="folder locker windows">folder locker windows</a>
-<a title="folder locker windows">folder locker windows</a>
-<a title="my folder lock">my folder lock</a>
-<a title="computer folder lock">computer folder lock</a>
-<a title="secure folder locker">secure folder locker</a>
-<a title="folder protection windows">folder protection windows</a>
+<a class="footer-t" title="Leo Folder Locker Freeware">Leo Folder Locker Freeware</a>
+<a class="footer-t" title="folder locker windows">folder locker windows</a>
+<a class="footer-t" title="folder locker windows">folder locker windows</a>
+<a class="footer-t" title="my folder lock">my folder lock</a>
+<a class="footer-t" title="computer folder lock">computer folder lock</a>
+<a class="footer-t" title="secure folder locker">secure folder locker</a>
+<a class="footer-t" title="folder protection windows">folder protection windows</a>
 </div>
