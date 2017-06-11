@@ -12,3 +12,8 @@ Custom CSS
 
 #award-table td{
 	width: 50%;
+}
+
+#mypic {
+	border-radius:100%;	
+}
