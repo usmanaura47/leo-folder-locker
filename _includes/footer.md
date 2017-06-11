@@ -6,7 +6,9 @@ Site powered by jekyll and [SinglePaged theme](https://github.com/t413/SinglePag
 &mdash;
 this site is [open source]({{ site.source_link }})
 
-<div>
+<hr/>
+
+<div id="footer-tdiv">
 <a class="footer-t" title="Leo Folder Locker Freeware">Leo Folder Locker Freeware</a>
 <a class="footer-t" title="folder locker windows">folder locker windows</a>
 <a class="footer-t" title="folder locker windows">folder locker windows</a>
