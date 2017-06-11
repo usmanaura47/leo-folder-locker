@@ -31,12 +31,9 @@ Custom CSS
 	border-top: 1px black solid;
 	margin-top: 2%;
 }
+
 .footer-t {
 	text-decoration: none;
-}
-
-.odd {
-	color: red;	
 }
 
 .footer-t:hover {
