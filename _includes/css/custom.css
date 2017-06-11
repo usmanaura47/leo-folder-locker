@@ -25,3 +25,11 @@ Custom CSS
 #heart-css {
 	color: red;	
 }
+
+.footer-t {
+	text-decoration: none;
+}
+
+.footer-t:hover {
+	color: red;
+}
