@@ -26,6 +26,9 @@ Custom CSS
 	color: red;	
 }
 
+#footer-tdiv {
+	display: inline-block;
+}
 .footer-t {
 	text-decoration: none;
 }
