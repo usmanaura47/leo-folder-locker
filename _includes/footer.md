@@ -6,10 +6,4 @@ Site powered by jekyll and [SinglePaged theme](https://github.com/t413/SinglePag
 &mdash;
 this site is [open source]({{ site.source_link }})
 
-<a title="Leo Folder Locker Freeware"></a>
-<a title="folder locker windows"></a>
-<a title="folder locker windows"></a>
-<a title="my folder lock"></a>
-<a title="computer folder lock"></a>
-<a title="secure folder locker"></a>
-<a title="folder protection windows"></a>
+<a title="Leo Folder Locker Freeware"></a><a title="folder locker windows"></a><a title="folder locker windows"></a><a title="my folder lock"></a><a title="computer folder lock"></a><a title="secure folder locker"></a><a title="folder protection windows"></a>
