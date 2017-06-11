@@ -15,5 +15,3 @@ this site is [open source]({{ site.source_link }})
 <a class="footer-t" title="secure folder locker">secure folder locker</a>
 <a class="footer-t" title="folder protection windows">folder protection windows</a>
 </div>
-
-<hr/>
