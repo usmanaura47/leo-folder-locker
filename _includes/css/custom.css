@@ -1,2 +1,14 @@
-#award-table{width:100%;border-collapse:separate;border-spacing:35px}#award-table td{width:50%}#mypic{border-radius:100%}.contact-width{width:100%}#heart-css{color:red}#footer-tdiv{display:inline-block;border-top:1px black solid;margin-top:2%}.footer-t{text-decoration:none}
-.footer-t:hover{color:red}
+
+
+/*
+Custom CSS
+*/
+
+#award-table{
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 35px;
+}
+
+#award-table td{
+	width: 50%;
