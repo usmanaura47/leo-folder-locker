@@ -18,6 +18,10 @@ Custom CSS
 	color: red;
 }
 
+.contact-width {
+	width: 100%;
+}
+
 .footer-tdiv {
 	border-top: 1px black solid;
 	margin-top: 2%;
