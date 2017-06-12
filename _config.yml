@@ -27,6 +27,9 @@ enforce_ssl: leofolderlocker.tk
 
 twitter:
   username: malikusmanaura
+  
+image: 
+  path: /img/pic2.png
 
 logo: /img/leo-folder-locker-logo.png
 
