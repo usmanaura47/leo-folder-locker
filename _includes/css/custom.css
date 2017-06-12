@@ -18,6 +18,10 @@ Custom CSS
 	color: red;
 }
 
+#mypic {
+	border-radius: 100%;
+}
+
 .contact-width {
 	width: 100%;
 }
