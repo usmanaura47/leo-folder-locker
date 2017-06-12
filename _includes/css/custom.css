@@ -22,7 +22,7 @@ Custom CSS
 	width: 100%;
 }
 
-.footer-tdiv {
+#footer-tdiv {
 	border-top: 1px black solid;
 	margin-top: 2%;
  }
