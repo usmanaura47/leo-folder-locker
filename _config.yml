@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "Leo Folder Locker - An easy and freeware folder locker"
-keywords:    "leo folder locker, folder locker, folder lock windows 7, computer folder lock, folder lock windows 8, my folder lock, secure folder windows 7, folder password windows, malik usman aura, folder protection windows 7 windows 8, freeware folder locker, folder lock windows, protect folder with password windows 7 8 8.1 10, fast folder locker, windows 10 freeware, folder lock computer, windows freeware"
+keywords:    "leo folder locker, folder locker, folder lock windows 7, computer folder lock, folder lock windows 8, my folder lock, secure folder windows 7, folder password windows, malik usman aura, folder protection windows 7 windows 8, freeware folder locker, folder lock windows, protect folder with password windows 7 8 8.1 10, fast folder locker, windows 10 freeware, folder lock computer"
 description: "Leo Folder Locker is an easy to use, fast and free folder locker for Windows by Malik Usman Aura"
 source_link: "https://github.com/usmanaura47/leo-folder-locker"
 favicon:     "img/favicon.ico"
