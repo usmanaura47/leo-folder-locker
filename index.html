@@ -12,7 +12,6 @@ Happy Hacking!
 
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
-{% seo %}
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,6 +23,7 @@ Happy Hacking!
   <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
 	{% if site.touch_icon %}<link rel="apple-touch-icon" href="{{ site.touch_icon }}">{% endif %}
+  {% seo %}
 </head>
 <body>
   <div id="main">
@@ -71,5 +71,6 @@ Happy Hacking!
 {% include analytics.html %}
 </body>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="flickity.pkgd.min.js"></script>
 <script src="site.js"></script>
 </html>
