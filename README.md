@@ -19,7 +19,7 @@ You need Ruby and gem before starting, then:
 gem install bundler
 
 # clone the project
-git clone https://github.com/usmanaura47/leo-folder-locker.git
+git clone https://github.com/usmanaura47/leo-folder-locker-site.git
 cd leo-folder-locker
 
 # run jekyll with dependencies
