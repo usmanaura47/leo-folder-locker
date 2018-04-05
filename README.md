@@ -20,7 +20,7 @@ gem install bundler
 
 # clone the project
 git clone https://github.com/usmanaura47/leo-folder-locker-site.git
-cd leo-folder-locker
+cd leo-folder-locker-site
 
 # run jekyll with dependencies
 bundle exec jekyll serve
