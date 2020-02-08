@@ -1,4 +1,4 @@
-# Official Website of Leo Folder Locker
+# Official Website of Leo Folder Locker (Discontinued)
 
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/usmanaura47/leo-folder-locker/)
@@ -8,7 +8,7 @@
 
 > *Copyright 2020 [Malik Usman Aura](mailto:usmanaura47@gmail[dot]com)*
 
-To view live website click [here](http://leofolderlocker.tk)
+To view live website click [here](#)
 
 ## Running locally
 
